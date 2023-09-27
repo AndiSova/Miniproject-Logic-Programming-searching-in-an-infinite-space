@@ -1,6 +1,6 @@
 # Miniproject-Logic-Programming-searching-in-an-infinite-space
 The project uses first-order logic predicates with the Logic Programming paradigm to solve a simple AI problem: searching objects in an infinite space.\
-Problem description: Description of the problem
+Problem description:
 A robot is placed in one of an infinite number of square rooms, placed one near
 each other on an infinite surface. Every room has four neighboring rooms to
 which the robot can move by performing only one operation.
